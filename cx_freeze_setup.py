@@ -17,3 +17,4 @@ setup(
     options={"build_exe": build_exe_options},
     executables=[Executable("transcriber.py", base=base, icon="icon.ico")],
 )
+ghdfhdfg
